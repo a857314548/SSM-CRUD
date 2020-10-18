@@ -1,0 +1,17 @@
+com\zhangzhen\bean\DepartMentExample$Criterion.class
+com\zhangzhen\service\EmployeeService.class
+com\zhangzhen\test\MGBTest.class
+com\zhangzhen\controller\EmployeeController.class
+com\zhangzhen\bean\DepartMentExample$GeneratedCriteria.class
+com\zhangzhen\bean\Employee.class
+com\zhangzhen\service\DeptService.class
+com\zhangzhen\bean\DepartMentExample.class
+com\zhangzhen\bean\DepartMent1.class
+com\zhangzhen\bean\DepartMent.class
+com\zhangzhen\dao\EmployeeMapper.class
+com\zhangzhen\bean\DepartMentExample$Criteria.class
+com\zhangzhen\bean\Employee1.class
+com\zhangzhen\bean\EmployeeExample$GeneratedCriteria.class
+com\zhangzhen\bean\ResponseMsg.class
+com\zhangzhen\controller\DeptController.class
+com\zhangzhen\dao\DepartMentMapper.class
